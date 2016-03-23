@@ -6,3 +6,10 @@
  Template:     fitcoach
  Version:      1.0.0
 */
+
+body {
+    padding-top: 70px;
+}
+.admin-bar .site-header {
+    top: 32px;
+}

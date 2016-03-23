@@ -42,7 +42,7 @@
 
         <header id="masthead" class="site-header" role="banner">
             <div class="grid side-pad header-overflow">
-            <div class="site-branding col-9-12 mobile-col-2-3">
+            <div class="site-branding col-8-12 mobile-col-2-3">
             <?php if ( get_theme_mod( 'fitcoach_logo' ) ) : ?>
             <div class="site-logo">
                 <a href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'><img src='<?php echo esc_url( get_theme_mod( 'fitcoach_logo' ) ); ?>' <?php if ( get_theme_mod( 'logo_size' ) ) : ?>width="<?php echo esc_attr( get_theme_mod( 'logo_size' )); ?>"<?php endif; ?> alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>"></a>
@@ -55,7 +55,7 @@
             </div><!-- site-logo -->
 
 
-            <div class="nav-container col-8-12 mobile-col-1-3">
+            <div class="nav-container col-3-12 mobile-col-1-3">
                 <nav id="site-navigation" class="main-navigation" role="navigation">
                     <button class="menu-toggle"><?php _e( 'Menu', 'fitcoach' ); ?></button>
                     <?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
