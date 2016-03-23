@@ -1,0 +1,1673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fit Coach v1.48.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-25 18:36:00+0000\n"
+"Last-Translator: robbie <robbie@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ fitcoach
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+#@ fitcoach
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+#@ fitcoach
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ fitcoach
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+#@ fitcoach
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:34
+#@ fitcoach
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+#@ fitcoach
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:37
+#@ fitcoach
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:40
+#@ fitcoach
+msgid "Asides"
+msgstr ""
+
+#: archive.php:43
+#@ fitcoach
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:46
+#@ fitcoach
+msgid "Images"
+msgstr ""
+
+#: archive.php:49
+#@ fitcoach
+msgid "Videos"
+msgstr ""
+
+#: archive.php:52
+#@ fitcoach
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:55
+#@ fitcoach
+msgid "Links"
+msgstr ""
+
+#: archive.php:58
+#@ fitcoach
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:61
+#@ fitcoach
+msgid "Audios"
+msgstr ""
+
+#: archive.php:64
+#@ fitcoach
+msgid "Chats"
+msgstr ""
+
+#: archive.php:67
+#@ fitcoach
+msgid "Archives"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_ajax.php:47
+#@ cmb
+msgid "Please Try Again"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_ajax.php:131
+#@ cmb
+msgid "Remove Embed"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+#@ cmb
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_field.php:459
+#@ cmb
+msgid "Add Group"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_field.php:460
+#@ cmb
+msgid "Remove Group"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_types.php:250
+#@ cmb
+msgid "Add Row"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_types.php:306
+#: cmb/helpers/cmb_Meta_Box_types.php:706
+#: cmb/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "Remove"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_types.php:601
+#: cmb/helpers/cmb_Meta_Box_types.php:635
+#@ cmb
+msgid "No terms"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_types.php:674
+#: cmb/helpers/cmb_Meta_Box_types.php:728
+#@ cmb
+msgid "Add or Upload File"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_types.php:695
+#: cmb/helpers/cmb_Meta_Box_types.php:760
+#@ cmb
+msgid "Remove Image"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_types.php:706
+#: cmb/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "File:"
+msgstr ""
+
+#: cmb/helpers/cmb_Meta_Box_types.php:706
+#: cmb/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "Download"
+msgstr ""
+
+#: cmb/init.php:258
+#@ default
+msgid "Clear"
+msgstr ""
+
+#: cmb/init.php:259
+#@ default
+msgid "Default"
+msgstr ""
+
+#: cmb/init.php:260
+#@ default
+msgid "Select Color"
+msgstr ""
+
+#: cmb/init.php:261
+#@ default
+msgid "Current Color"
+msgstr ""
+
+#: cmb/init.php:288
+#@ cmb
+msgid "Select / Deselect All"
+msgstr ""
+
+#: cmb/init.php:1177
+#: inc/my-custom-css.php:144
+#: inc/my-custom-css.php:148
+#@ default
+#@ fitcoach
+msgid "Save"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+#@ fitcoach
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35
+#: comments.php:52
+#@ fitcoach
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+#: comments.php:53
+#@ fitcoach
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+#: comments.php:54
+#@ fitcoach
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+#@ fitcoach
+msgid "Comments are closed."
+msgstr ""
+
+#: content-class.php:29
+#: content-home.php:30
+#: content-page.php:18
+#: content-single.php:22
+#: content.php:34
+#: single-classes.php:52
+#@ fitcoach
+msgid "Pages:"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-class.php:38
+#: content-class.php:41
+#: content-search.php:30
+#: content-search.php:41
+#: content-single.php:31
+#: content-single.php:34
+#@ fitcoach
+msgid ", "
+msgstr ""
+
+#: content-class.php:46
+#: content-single.php:39
+#, php-format
+#@ fitcoach
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-class.php:48
+#: content-single.php:41
+#, php-format
+#@ fitcoach
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-class.php:54
+#: content-single.php:47
+#, php-format
+#@ fitcoach
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-class.php:56
+#: content-single.php:49
+#, php-format
+#@ fitcoach
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-class.php:69
+#: content-home.php:44
+#: content-page.php:25
+#: content-search.php:54
+#: content-single.php:62
+#@ fitcoach
+msgid "Edit"
+msgstr ""
+
+#: content-home.php:26
+#: content.php:26
+#: content.php:28
+#@ fitcoach
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-home.php:40
+#: content.php:41
+#@ fitcoach
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:16
+#@ fitcoach
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+#, php-format
+#@ fitcoach
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+#@ fitcoach
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:31
+#@ fitcoach
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-search.php:35
+#, php-format
+#@ fitcoach
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content-search.php:45
+#, php-format
+#@ fitcoach
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content-search.php:51
+#@ fitcoach
+msgid "Leave a comment"
+msgstr ""
+
+#: content-search.php:51
+#@ fitcoach
+msgid "1 Comment"
+msgstr ""
+
+#: content-search.php:51
+#@ fitcoach
+msgid "% Comments"
+msgstr ""
+
+#: footer.php:80
+#, php-format
+#@ fitcoach
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:60
+#@ fitcoach
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:118
+#@ fitcoach
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:128
+#@ fitcoach
+msgid "Class Sidebar"
+msgstr ""
+
+#: functions.php:130
+#@ fitcoach
+msgid "This sidebar will appear on each individual class post."
+msgstr ""
+
+#: functions.php:272
+#@ fitcoach
+msgctxt "Post Type General Name"
+msgid "Slider"
+msgstr ""
+
+#: functions.php:273
+#@ fitcoach
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr ""
+
+#: functions.php:274
+#@ fitcoach
+msgid "Slides"
+msgstr ""
+
+#: functions.php:275
+#: functions.php:352
+#@ fitcoach
+msgid "Parent Item:"
+msgstr ""
+
+#: functions.php:276
+#@ fitcoach
+msgid "All Slides"
+msgstr ""
+
+#: functions.php:277
+#@ fitcoach
+msgid "View Slides"
+msgstr ""
+
+#: functions.php:278
+#@ fitcoach
+msgid "Add New Slide"
+msgstr ""
+
+#: functions.php:279
+#: functions.php:356
+#@ fitcoach
+msgid "Add New"
+msgstr ""
+
+#: functions.php:280
+#@ fitcoach
+msgid "Edit Slide"
+msgstr ""
+
+#: functions.php:281
+#@ fitcoach
+msgid "Update Slide"
+msgstr ""
+
+#: functions.php:282
+#@ fitcoach
+msgid "Search Slides"
+msgstr ""
+
+#: functions.php:283
+#: functions.php:360
+#@ fitcoach
+msgid "Not found"
+msgstr ""
+
+#: functions.php:284
+#: functions.php:361
+#@ fitcoach
+msgid "Not found in Trash"
+msgstr ""
+
+#: functions.php:287
+#@ fitcoach
+msgid "slides"
+msgstr ""
+
+#: functions.php:288
+#@ fitcoach
+msgid "Add a slide to your schedule."
+msgstr ""
+
+#: functions.php:324
+#@ fitcoach
+msgid "Slide Description"
+msgstr ""
+
+#: functions.php:330
+#@ fitcoach
+msgid "URL"
+msgstr ""
+
+#: functions.php:331
+#@ fitcoach
+msgid "Enter the URL you would like to link to."
+msgstr ""
+
+#: functions.php:349
+#@ fitcoach
+msgctxt "Post Type General Name"
+msgid "Classes"
+msgstr ""
+
+#: functions.php:350
+#@ fitcoach
+msgctxt "Post Type Singular Name"
+msgid "Class"
+msgstr ""
+
+#: functions.php:351
+#@ fitcoach
+msgid "Classes"
+msgstr ""
+
+#: functions.php:353
+#@ fitcoach
+msgid "All Classes"
+msgstr ""
+
+#: functions.php:354
+#@ fitcoach
+msgid "View Class"
+msgstr ""
+
+#: functions.php:355
+#@ fitcoach
+msgid "Add New Class"
+msgstr ""
+
+#: functions.php:357
+#@ fitcoach
+msgid "Edit Class"
+msgstr ""
+
+#: functions.php:358
+#@ fitcoach
+msgid "Update Class"
+msgstr ""
+
+#: functions.php:359
+#@ fitcoach
+msgid "Search Classes"
+msgstr ""
+
+#: functions.php:364
+#@ fitcoach
+msgid "classes"
+msgstr ""
+
+#: functions.php:365
+#@ fitcoach
+msgid "Add a class to your schedule."
+msgstr ""
+
+#: functions.php:403
+#@ fitcoach
+msgid "Description of Class"
+msgstr ""
+
+#: functions.php:409
+#@ fitcoach
+msgid "Date of Class"
+msgstr ""
+
+#: functions.php:415
+#@ fitcoach
+msgid "Day (For Weekly Classes)"
+msgstr ""
+
+#: functions.php:421
+#@ fitcoach
+msgid "Time of Class"
+msgstr ""
+
+#: functions.php:427
+#@ fitcoach
+msgid "Cost of Class"
+msgstr ""
+
+#: functions.php:439
+#@ fitcoach
+msgid "Google Map Link"
+msgstr ""
+
+#: functions.php:440
+#@ fitcoach
+msgid "Enter the embed URL of a custom google map.<br />You can generate it <a href=\"https://www.google.com/maps/\">here</a>. For instructions, click <a href=\"https://support.google.com/maps/answer/3544418?hl=en\">here</a>."
+msgstr ""
+
+#: header.php:41
+#@ fitcoach
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:60
+#@ fitcoach
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:25
+#@ fitcoach
+msgid "Like Fit Coach? Help Us Out."
+msgstr ""
+
+#: inc/customizer.php:27
+#@ fitcoach
+msgid "We do all we can do to make all our themes free for you. While we enjoy it, and it makes us happy to help out, a little appreciation can help us to keep theming.</strong><br/><br/> Please help support our mission and continued development with a donation of $5, $10, $20, or if you are feeling really kind $100..<br/><br/> <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LMGYAZW9C5GE\" target=\"_blank\" rel=\"nofollow\"><img class=\"\" src=\"https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"Make a donation to ModernThemes\" /></a>"
+msgstr ""
+
+#: inc/customizer.php:49
+#@ fitcoach
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:98
+#@ fitcoach
+msgid "Select your desired font for the headings. Oswald is the default Heading font."
+msgstr ""
+
+#: inc/customizer.php:115
+#@ fitcoach
+msgid "Select your desired font for the body. Oswald is the default Body font."
+msgstr ""
+
+#: inc/customizer.php:174
+#@ fitcoach
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:188
+#@ fitcoach
+msgid "Logo and Icons"
+msgstr ""
+
+#: inc/customizer.php:198
+#@ fitcoach
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:212
+#@ fitcoach
+msgid "Change the width of the Logo in PX."
+msgstr ""
+
+#: inc/customizer.php:213
+#@ fitcoach
+msgid "Only enter numeric value"
+msgstr ""
+
+#: inc/customizer.php:232
+#@ fitcoach
+msgid "Upload your favicon (16x16 pixels)"
+msgstr ""
+
+#: inc/customizer.php:253
+#@ fitcoach
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr ""
+
+#: inc/customizer.php:274
+#@ fitcoach
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr ""
+
+#: inc/customizer.php:295
+#@ fitcoach
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr ""
+
+#: inc/customizer.php:316
+#@ fitcoach
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr ""
+
+#: inc/customizer.php:327
+#@ fitcoach
+msgid "Home Page"
+msgstr ""
+
+#: inc/customizer.php:389
+#@ fitcoach
+msgid "Upcoming Class Title"
+msgstr ""
+
+#: inc/customizer.php:403
+#@ fitcoach
+msgid "Your call-to-action background"
+msgstr ""
+
+#: inc/customizer.php:415
+#@ fitcoach
+msgid "Call-to-action display text"
+msgstr ""
+
+#: inc/customizer.php:428
+#@ fitcoach
+msgid "Call-to-action button text"
+msgstr ""
+
+#: inc/customizer.php:441
+#@ fitcoach
+msgid "Blog Title"
+msgstr ""
+
+#: inc/customizer.php:455
+#@ fitcoach
+msgid "Front Page Call-to-Action URL"
+msgstr ""
+
+#: inc/customizer.php:464
+#@ fitcoach
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:466
+#@ fitcoach
+msgid "Customize your footer area. Choose from any of <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">these icons</a>. Example: \"fa-mobile\""
+msgstr ""
+
+#: inc/customizer.php:476
+#@ fitcoach
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer.php:502
+#@ fitcoach
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:515
+#@ fitcoach
+msgid "First Footer Icon"
+msgstr ""
+
+#: inc/customizer.php:528
+#@ fitcoach
+msgid "Footer Phone Number"
+msgstr ""
+
+#: inc/customizer.php:541
+#@ fitcoach
+msgid "Second Footer Icon"
+msgstr ""
+
+#: inc/customizer.php:554
+#@ fitcoach
+msgid "Footer Address"
+msgstr ""
+
+#: inc/customizer.php:567
+#@ fitcoach
+msgid "Third Footer Icon"
+msgstr ""
+
+#: inc/customizer.php:580
+#@ fitcoach
+msgid "Footer Contact Email"
+msgstr ""
+
+#: inc/customizer.php:593
+#@ fitcoach
+msgid "Footer Byline Text"
+msgstr ""
+
+#: inc/customizer.php:601
+#@ fitcoach
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:612
+#@ fitcoach
+msgid "Post content"
+msgstr ""
+
+#: inc/customizer.php:634
+#@ fitcoach
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:635
+#@ fitcoach
+msgid "Choose your excerpt length here. Default: 30 words"
+msgstr ""
+
+#: inc/extras.php:63
+#, php-format
+#@ fitcoach
+msgid "Page %s"
+msgstr ""
+
+#: inc/my-custom-css.php:61
+#@ fitcoach
+msgid "Settings"
+msgstr ""
+
+#: inc/my-custom-css.php:64
+#@ fitcoach
+msgid "Support"
+msgstr ""
+
+#: inc/my-custom-css.php:89
+#@ fitcoach
+msgid "My Custom CSS Panel"
+msgstr ""
+
+#: inc/my-custom-css.php:89
+#@ fitcoach
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/my-custom-css.php:141
+#@ fitcoach
+msgid "Custom CSS Panel"
+msgstr ""
+
+#: inc/my-custom-css.php:144
+#@ fitcoach
+msgid "Place your custom CSS code here:"
+msgstr ""
+
+#: inc/template-tags.php:21
+#@ fitcoach
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+#@ fitcoach
+msgid "<span class=\"meta-nav\"><i class=\"fa fa-angle-left\"></i></span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+#@ fitcoach
+msgid "Newer posts <span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i></span>"
+msgstr ""
+
+#: inc/template-tags.php:52
+#@ fitcoach
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+#@ fitcoach
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"><i class=\"fa fa-angle-left\"></i></span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:56
+#, php-format
+#@ fitcoach
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i></span>"
+msgstr ""
+
+#: page-classes.php:45
+#@ fitcoach
+msgid "More Details"
+msgstr ""
+
+#: page-home.php:87
+#@ fitcoach
+msgid "Book a Class"
+msgstr ""
+
+#: page-home.php:103
+#@ fitcoach
+msgid "Latest News Posts"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:333
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:334
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:335
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:336
+#@ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:338
+#, php-format
+#@ fitcoach
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:343
+#, php-format
+#@ fitcoach
+msgid "First time using Modern Themes? We recommend certain plugins if you desire additional functionality: %1$s."
+msgid_plural "First time using Modern Themes? We recommend certain plugins if you desire additional functionality: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:348
+#, php-format
+#@ fitcoach
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:353
+#, php-format
+#@ fitcoach
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:358
+#, php-format
+#@ fitcoach
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:363
+#, php-format
+#@ fitcoach
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:368
+#, php-format
+#@ fitcoach
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:373
+#, php-format
+#@ fitcoach
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:378
+#, php-format
+#@ fitcoach
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:383
+#@ fitcoach
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:388
+#@ fitcoach
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:393
+#@ fitcoach
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:397
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:398
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:399
+#: panel/class-tgm-plugin-activation.php:3034
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:401
+#, php-format
+#@ tgmpa
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:402
+#, php-format
+#@ tgmpa
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:403
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:404
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:405
+#@ tgmpa
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:524
+#@ tgmpa
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:525
+#@ tgmpa
+msgid "Update Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:639
+#@ tgmpa
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:833
+#: panel/class-tgm-plugin-activation.php:3443
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:940
+#@ tgmpa
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:940
+#: panel/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1121
+#: panel/class-tgm-plugin-activation.php:2833
+#@ tgmpa
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1886
+#, php-format
+#@ tgmpa
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2172
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2175
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2191
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2194
+#@ tgmpa
+msgid "External Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2197
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2214
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2218
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2220
+#@ tgmpa
+msgid "Active"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2226
+#@ tgmpa
+msgid "Required Update not Available"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2229
+#@ tgmpa
+msgid "Requires Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2232
+#@ tgmpa
+msgid "Update recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2240
+#, php-format
+#@ tgmpa
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2285
+#, php-format
+#@ tgmpa
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2288
+#, php-format
+#@ tgmpa
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2291
+#, php-format
+#@ tgmpa
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2294
+#, php-format
+#@ tgmpa
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2376
+#@ tgmpa
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2384
+#@ tgmpa
+msgid "Installed version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2392
+#@ tgmpa
+msgid "Minimum required version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2404
+#@ tgmpa
+msgid "Available version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ tgmpa
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2441
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2442
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2443
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2447
+#@ tgmpa
+msgid "Version"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2448
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2496
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2505
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2575
+#@ tgmpa
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2608
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2614
+#@ tgmpa
+msgid "Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2617
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2648
+#@ tgmpa
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2650
+#@ tgmpa
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2686
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2688
+#@ tgmpa
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2793
+#@ tgmpa
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2819
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: panel/class-tgm-plugin-activation.php:2837
+#: panel/class-tgm-plugin-activation.php:400
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:3033
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3367
+#, php-format
+#@ tgmpa
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3369
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3374
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3375
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3375
+#: panel/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3375
+#: panel/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3376
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3377
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3380
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3381
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3382
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3383
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/theme-admin_page.php:214
+#@ fitcoach
+msgid "Thank you for using ModernThemes!"
+msgstr ""
+
+#: panel/theme-admin_page.php:222
+#@ fitcoach
+msgid "Want to Give Back?"
+msgstr ""
+
+#: panel/theme-admin_page.php:226
+#@ fitcoach
+msgid "Please help support our mission and continued development of free themes with a donation of $5, $10, $20, or more!"
+msgstr ""
+
+#: panel/theme-admin_page.php:232
+#@ fitcoach
+msgid "Documentation"
+msgstr ""
+
+#: panel/theme-admin_page.php:237
+#@ fitcoach
+msgid "Check out our <a href=\"http://modernthemes.net/documentation/\">ModernThemes documentation</a> to learn how to use fitcoach and all the rest of our themes. "
+msgstr ""
+
+#: panel/theme-admin_page.php:241
+#@ fitcoach
+msgid "Read Docs"
+msgstr ""
+
+#: panel/theme-admin_page.php:245
+#@ fitcoach
+msgid "About ModernThemes"
+msgstr ""
+
+#: panel/theme-admin_page.php:249
+#@ fitcoach
+msgid "Want more WordPress themes or support and customization? We can probably help you out at <a href=\"http://modernthemes.net/\" target=\"_blank\">modernthemes.net</a>."
+msgstr ""
+
+#: panel/theme-admin_page.php:253
+#@ fitcoach
+msgid "About Us"
+msgstr ""
+
+#: panel/theme-admin_page.php:258
+#@ fitcoach
+msgid "Premium Membership. Premium Experience."
+msgstr ""
+
+#: panel/theme-admin_page.php:262
+#@ fitcoach
+msgid "Plugin Compatibility"
+msgstr ""
+
+#: panel/theme-admin_page.php:266
+#@ fitcoach
+msgid "Use our new free plugins with this theme to add functionality for things like projects, clients, team members and more. Compatible with all premium themes!"
+msgstr ""
+
+#: panel/theme-admin_page.php:270
+#@ fitcoach
+msgid "Agency Designed Themes"
+msgstr ""
+
+#: panel/theme-admin_page.php:274
+#@ fitcoach
+msgid "Look as good as can be with our new premium themes. Each one is agency designed with modern styles and professional layouts."
+msgstr ""
+
+#: panel/theme-admin_page.php:278
+#@ fitcoach
+msgid "Membership Options"
+msgstr ""
+
+#: panel/theme-admin_page.php:282
+#@ fitcoach
+msgid "We have options to fit every budget. Choose between a single theme, or access to all current and future themes for a year, or forever!"
+msgstr ""
+
+#: panel/theme-admin_page.php:286
+#@ fitcoach
+msgid "Access to New Themes"
+msgstr ""
+
+#: panel/theme-admin_page.php:290
+#@ fitcoach
+msgid "New themes added monthly! When you purchase a premium membership you get access to all premium themes, with new themes added monthly."
+msgstr ""
+
+#: panel/theme-admin_page.php:295
+#@ fitcoach
+msgid "Get Premium Membership"
+msgstr ""
+
+#: search.php:17
+#, php-format
+#@ fitcoach
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-classes.php:25
+#@ fitcoach
+msgid "Class Overview"
+msgstr ""
+
+#: single-classes.php:28
+#@ fitcoach
+msgid "Class Details"
+msgstr ""
+
+#: single-classes.php:47
+#@ fitcoach
+msgid "Class Location"
+msgstr ""
+
+#: widgets/contact-form-widget.php:11
+#@ fitcoach
+msgid "Book a Class Form"
+msgstr ""
+
+#: widgets/contact-form-widget.php:14
+#@ fitcoach
+msgid "Use this widget to place a Book a Class form in your sidebar."
+msgstr ""
+
+#: widgets/contact-form-widget.php:35
+#@ fitcoach
+msgid "Please enter your name."
+msgstr ""
+
+#: widgets/contact-form-widget.php:43
+#@ fitcoach
+msgid "Please enter your email address."
+msgstr ""
+
+#: widgets/contact-form-widget.php:53
+#@ fitcoach
+msgid "Please enter your phone number."
+msgstr ""
+
+#: widgets/contact-form-widget.php:61
+#@ fitcoach
+msgid "Please enter the date of the class."
+msgstr ""
+
+#: widgets/contact-form-widget.php:69
+#@ fitcoach
+msgid "Please enter the class name."
+msgstr ""
+
+#: widgets/contact-form-widget.php:77
+#@ fitcoach
+msgid "Please enter a message."
+msgstr ""
+
+#: widgets/contact-form-widget.php:102
+#@ fitcoach
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: widgets/contact-form-widget.php:106
+#@ fitcoach
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: widgets/contact-form-widget.php:172
+#@ fitcoach
+msgid "New title"
+msgstr ""
+
+#: widgets/contact-form-widget.php:179
+#@ fitcoach
+msgid "New Description"
+msgstr ""
+
+#: widgets/contact-form-widget.php:186
+#@ fitcoach
+msgid "Title:"
+msgstr ""
+
+#: widgets/contact-form-widget.php:189
+#@ fitcoach
+msgid "Description:"
+msgstr ""
+
+#: widgets/contact-info.php:13
+#@ fitcoach
+msgid "Display your contact info"
+msgstr ""
+
+#: widgets/contact-info.php:15
+#@ fitcoach
+msgid "MT: Contact Info Widget"
+msgstr ""
+
+#: widgets/contact-info.php:53
+#: widgets/video-widget.php:49
+#@ fitcoach
+msgid "Title"
+msgstr ""
+
+#: widgets/contact-info.php:61
+#@ fitcoach
+msgid "Enter your address"
+msgstr ""
+
+#: widgets/contact-info.php:67
+#@ fitcoach
+msgid "Enter your phone number"
+msgstr ""
+
+#: widgets/contact-info.php:73
+#@ fitcoach
+msgid "Enter your email address"
+msgstr ""
+
+#: widgets/contact-info.php:171
+#@ fitcoach
+msgid "Contact info"
+msgstr ""
+
+#: widgets/contact-info.php:195
+#@ fitcoach
+msgid "Address: "
+msgstr ""
+
+#: widgets/contact-info.php:205
+#@ fitcoach
+msgid "Phone: "
+msgstr ""
+
+#: widgets/contact-info.php:215
+#@ fitcoach
+msgid "Email: "
+msgstr ""
+
+#: widgets/video-widget.php:13
+#@ fitcoach
+msgid "Video for your sidebar."
+msgstr ""
+
+#: widgets/video-widget.php:15
+#@ fitcoach
+msgid "MT: Video Widget"
+msgstr ""
+
+#: widgets/video-widget.php:57
+#@ fitcoach
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr ""
+
+#: widgets/video-widget.php:151
+#@ fitcoach
+msgid "Video"
+msgstr ""
+
+#: inc/customizer.php:128
+#@ fitcoach
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:139
+#@ fitcoach
+msgid "Hover Color"
+msgstr ""
+
+#: inc/customizer.php:150
+#@ fitcoach
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:162
+#@ fitcoach
+msgid "Theme Hover Color"
+msgstr ""
+
+#: inc/customizer.php:489
+#@ fitcoach
+msgid "Footer background"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+#@ fitcoach
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+#@ fitcoach
+msgid "by %s"
+msgstr ""
+
